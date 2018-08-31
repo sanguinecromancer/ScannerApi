@@ -1,0 +1,17 @@
+C:\Exercises\ScannerApi\Scanner.Core\obj\Debug\netcoreapp2.0\Scanner.Core.csproj.CoreCompileInputs.cache
+C:\Exercises\ScannerApi\Scanner.Core\obj\Debug\netcoreapp2.0\Scanner.Core.AssemblyInfoInputs.cache
+C:\Exercises\ScannerApi\Scanner.Core\obj\Debug\netcoreapp2.0\Scanner.Core.AssemblyInfo.cs
+C:\Exercises\ScannerApi\Scanner.Core\bin\Debug\netcoreapp2.0\Scanner.Core.deps.json
+C:\Exercises\ScannerApi\Scanner.Core\bin\Debug\netcoreapp2.0\Scanner.Core.dll
+C:\Exercises\ScannerApi\Scanner.Core\bin\Debug\netcoreapp2.0\Scanner.Core.pdb
+C:\Exercises\ScannerApi\Scanner.Core\obj\Debug\netcoreapp2.0\Scanner.Core.dll
+C:\Exercises\ScannerApi\Scanner.Core\obj\Debug\netcoreapp2.0\Scanner.Core.pdb
+C:\Exercises\ScannerApi\ScannerApi\Scanner.Core\bin\Debug\netcoreapp2.0\Scanner.Core.deps.json
+C:\Exercises\ScannerApi\ScannerApi\Scanner.Core\bin\Debug\netcoreapp2.0\Scanner.Core.dll
+C:\Exercises\ScannerApi\ScannerApi\Scanner.Core\bin\Debug\netcoreapp2.0\Scanner.Core.pdb
+C:\Exercises\ScannerApi\ScannerApi\Scanner.Core\obj\Debug\netcoreapp2.0\Scanner.Core.csprojAssemblyReference.cache
+C:\Exercises\ScannerApi\ScannerApi\Scanner.Core\obj\Debug\netcoreapp2.0\Scanner.Core.csproj.CoreCompileInputs.cache
+C:\Exercises\ScannerApi\ScannerApi\Scanner.Core\obj\Debug\netcoreapp2.0\Scanner.Core.AssemblyInfoInputs.cache
+C:\Exercises\ScannerApi\ScannerApi\Scanner.Core\obj\Debug\netcoreapp2.0\Scanner.Core.AssemblyInfo.cs
+C:\Exercises\ScannerApi\ScannerApi\Scanner.Core\obj\Debug\netcoreapp2.0\Scanner.Core.dll
+C:\Exercises\ScannerApi\ScannerApi\Scanner.Core\obj\Debug\netcoreapp2.0\Scanner.Core.pdb
