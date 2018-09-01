@@ -70,8 +70,6 @@ namespace ScannerApi.Controllers
         [HttpGet("{id}", Name = "GetURL")]
         public URLItem GetById(long id)
         {
-            var x;
-            var y;
             var item = _context.URLItems.Find(id);
             if (item == null)
             {
